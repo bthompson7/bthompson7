@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
-- 🔭 I’m currently working on [various side projects](https://github.com/bthompson7?tab=repositories)
+- 🔭 I’m currently working on [various projects](https://github.com/bthompson7?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
