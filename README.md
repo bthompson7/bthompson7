@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
-- 🔭 I’m currently working on [various projects](https://github.com/bthompson7?tab=repositories)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/benpthompson" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="benpthompson" height="30" width="40" /></a>
